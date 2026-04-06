@@ -209,3 +209,13 @@ Invalid input returns structured 400 responses.
   "message": "Amount must be greater than zero"
 }
 ```
+## API Documentation
+
+Public API documentation is available here:
+
+- Postman Documentation: https://documenter.getpostman.com/view/46442430/2sBXiqF9DJ
+
+For local interactive testing after startup:
+
+- Swagger UI: http://localhost:8080/swagger-ui.html
+- OpenAPI JSON: http://localhost:8080/api-docs
